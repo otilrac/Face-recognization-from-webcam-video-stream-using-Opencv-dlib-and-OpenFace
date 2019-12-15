@@ -23,7 +23,7 @@ This system uses the video stream from webcam and classify the persons infront o
 ## Acknowledgements
 * special thanks to Kaushik yathi raj and harshavardhan for developing frontend application and great UI
 
-##License
+## License
  Boltzeye  Copyright (C) 2019   T Bharath Chandra
     This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
     This is free software, and you are welcome to redistribute it
