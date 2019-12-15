@@ -21,6 +21,6 @@ This system uses the video stream from webcam and classify the persons infront o
 * you see the 'known person' or 'unknown person' right above the bounding box of the face
 
 ## Acknowledgements
-* special thanks to Kaushik yathi raj and harshavardhan for frontend developing application and great UI
+* special thanks to Kaushik yathi raj and harshavardhan for developing frontend application and great UI
 
 
