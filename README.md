@@ -3,7 +3,7 @@ A physical security application using computer vision
 
 This system uses the video stream from webcam and classify the persons infront of camera as known a person or a unknown person.
 
-![sample image](IMG20191214063250.jpg)
+[![Youtube Video](https://img.youtube.com/vi/k-1fj8XPBCQ/0.jpg)](https://www.youtube.com/watch?v=k-1fj8XPBCQ)
 
 ## Requirements
 * **requirements.txt** contains all the packages used in devlopement of this system. 
